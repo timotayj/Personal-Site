@@ -1,12 +1,12 @@
-title: Dark Reader
+title: Stream of Unconsciousness
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-dark-reader"
+baseurl: ""
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Timothy Johnson
+  email: tim@timothyjohnsonenterpises.com
 
 plugins:
   - jekyll-paginate
