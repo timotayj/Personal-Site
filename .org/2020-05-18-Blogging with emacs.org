@@ -1,0 +1,15 @@
+
+
+[[./img/code.jpg]]
+
+* Blogging with emacs
+
+
+I've been trying to emacs for almost all my writing. With the Spacemacs distro it might just be the most distraction free writing experience you can find. I used to lahg at those stories of George R.R. Martin wiritng in [[https://jamesclear.com/george-rr-martin][WordStar]] but hey, I guess we all grow up and see the light! 
+
+So for this site which I hope will be a way of logging some of my thoughts I thought emacs would be the best platform
+
+* org-mode
+
+To do this I am using org-mode, an instally xomplete package that lets you oragnise everything using just text files. From there I will export to [[https://orgmode.org/manual/Markdown-Export.html][markdown]] and, jsing [[https://jekyllrb.com/][jekyll]] and git, geth this streight to a external server and, hopefully, to readers eyes.
+ 
