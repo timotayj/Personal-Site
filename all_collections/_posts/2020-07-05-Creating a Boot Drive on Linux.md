@@ -1,5 +1,6 @@
 ---
 author: Timothy Johnson
+tags: Linux Tips 
 ---
 
 # Bootable Drive Creation on Linux

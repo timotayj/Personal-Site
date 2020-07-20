@@ -1,5 +1,6 @@
 ---
 author: Timothy Johnson
+tags: emacs blogs
 ---
 
 
