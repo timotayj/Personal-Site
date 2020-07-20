@@ -1,12 +1,10 @@
-
-# Table of Contents
-
-
-
-&#x2014;
+---
 author: Timothy Johnson
 tags: Linux Tips PulseAudio Steam Crackling audio Fallout4
-&#x2014;
+---
+
+# Fixing Sound for Steam Linux
+
 
 I have had some issues with crackling sound and Steam on my latest build - notably during Fallout 4.
 
