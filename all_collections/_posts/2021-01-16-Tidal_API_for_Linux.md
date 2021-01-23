@@ -53,7 +53,7 @@ This part proved difficult for me. I have no access to a Windows machine and so 
 
 4.  Here you will see a bunch of files. To find out your API token run the following command:
 
-    grep -r "X-Tidal-Token"
+    	grep -r "X-Tidal-Token"
 
 1.  Copy the returned value - this is your Tidal API token.
 
